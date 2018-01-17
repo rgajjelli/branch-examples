@@ -6,3 +6,5 @@ mater - adding 2nd line commit 2.0
 master - adding 3rd line commit 5.0
 
 master - adding 4th line commit 6.0
+branch1 - updates, commit 3.0
+branch1 - updates, commit 4.0
